@@ -1,0 +1,4 @@
+alimento.c: In function ‘leAlimento’:
+alimento.c:35:11: warning: unused variable ‘qtdConsumida’ [-Wunused-variable]
+   35 |     float qtdConsumida = 0;
+      |           ^~~~~~~~~~~~

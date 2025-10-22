@@ -1,0 +1,166 @@
+- Arquivo de configuração encontrado!
+ - Arquivos header necessários do professor existem na pasta Includes
+ - Arquivos objetos necessários do professor existem na pasta Gabarito-obj.
+
+#######################################
+ALUNO: Hydrech
+#######################################
+
+CRIANDO O DIRETÓRIO DE RESULTADO PARA Hydrech:
+ - Diretório Resultados/Hydrech criado com sucesso!
+ - Diretório Resultados/Hydrech/main criado com sucesso!
+ - Diretório Resultados/Hydrech/alimento criado com sucesso!
+ - Diretório Resultados/Hydrech/restaurante criado com sucesso!
+ - Arquivos criados: ok!
+
+CHECKANDO OS ARQUIVOS DO ALUNO:
+ - Arquivo esperado 'Respostas/Hydrech/alimento.c' encontrado!
+ - Arquivo esperado 'Respostas/Hydrech/alimento.h' encontrado!
+ - Arquivo esperado 'Respostas/Hydrech/main.c' encontrado!
+ - Arquivo esperado 'Respostas/Hydrech/restaurante.c' encontrado!
+ - Arquivo esperado 'Respostas/Hydrech/restaurante.h' encontrado!
+ - Arquivos esperados enviados: Ok!
+
+COPIANDO OS ARQUIVOS PARA A PASTA DE RESULTADO DO ALUNO:
+ - Pasta main:
+ - Copiando os Casos de teste para a pasta Resultados/Hydrech/main
+ - Copiando os Includes/alimento.h Includes/restaurante.h do professor para a pasta Resultados/Hydrech/main
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Hydrech/main
+ - Removendo o main.o do professor da pasta Resultados/Hydrech/main
+ - Copiando o Respostas/Hydrech/main.c do aluno para a pasta Resultados/Hydrech/main
+ - Pasta alimento:
+ - Copiando os Casos de teste para a pasta Resultados/Hydrech/alimento
+ - Copiando os Includes/alimento.h Includes/restaurante.h do professor para a pasta Resultados/Hydrech/alimento
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Hydrech/alimento
+ - Removendo o alimento.o do professor da pasta Resultados/Hydrech/alimento
+ - Copiando o Respostas/Hydrech/alimento.c do aluno para a pasta Resultados/Hydrech/alimento
+ - Pasta restaurante:
+ - Copiando os Casos de teste para a pasta Resultados/Hydrech/restaurante
+ - Copiando os Includes/alimento.h Includes/restaurante.h do professor para a pasta Resultados/Hydrech/restaurante
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Hydrech/restaurante
+ - Removendo o restaurante.o do professor da pasta Resultados/Hydrech/restaurante
+ - Copiando o Respostas/Hydrech/restaurante.c do aluno para a pasta Resultados/Hydrech/restaurante
+ - Copiando Arquivos Extras do Aluno:
+ - Arquivos copiados: ok!
+
+COMPILANDO OS ARQUIVOS NA PASTA DE RESULTADO DO ALUNO:
+ - Compilação dos arquivos do aluno na pasta main ok!
+ - Arquivo de output gerado: Resultados/Hydrech/main/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta alimento ok!
+ - Arquivo de output gerado: Resultados/Hydrech/alimento/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta restaurante ok!
+ - Arquivo de output gerado: Resultados/Hydrech/restaurante/result_compilation.txt
+ - Arquivos Compilados: ok!
+
+LINKANDO OS ARQUIVOS COMPILADOS:
+ - Pasta main:
+ - Gerando o binário prog linkando com o(s) arquivo(s) main/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/Hydrech/main/result_linking.txt
+ - Pasta alimento:
+ - Gerando o binário prog linkando com o(s) arquivo(s) alimento/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/Hydrech/alimento/result_linking.txt
+ - Pasta restaurante:
+ - Gerando o binário prog linkando com o(s) arquivo(s) restaurante/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/Hydrech/restaurante/result_linking.txt
+
+EXECUTANDO O VALGRIND EM CADA CASO:
+ - Pasta main / Caso 1:
+ - Arquivo de output gerado: Resultados/Hydrech/main/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta main / Caso 2:
+ - Arquivo de output gerado: Resultados/Hydrech/main/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta main / Caso 3:
+ - Arquivo de output gerado: Resultados/Hydrech/main/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta main / Caso 4:
+ - Arquivo de output gerado: Resultados/Hydrech/main/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Nota para a pasta main (máximo 3.33) - 40.00 de 40 - 100.00% de 3.33: 3.33.
+ -----
+ - Pasta alimento / Caso 1:
+ - Arquivo de output gerado: Resultados/Hydrech/alimento/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta alimento / Caso 2:
+ - Arquivo de output gerado: Resultados/Hydrech/alimento/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta alimento / Caso 3:
+ - Arquivo de output gerado: Resultados/Hydrech/alimento/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta alimento / Caso 4:
+ - Arquivo de output gerado: Resultados/Hydrech/alimento/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Nota para a pasta alimento (máximo 3.33) - 40.00 de 40 - 100.00% de 3.33: 3.33.
+ -----
+ - Pasta restaurante / Caso 1:
+ - Arquivo de output gerado: Resultados/Hydrech/restaurante/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta restaurante / Caso 2:
+ - Arquivo de output gerado: Resultados/Hydrech/restaurante/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta restaurante / Caso 3:
+ - Arquivo de output gerado: Resultados/Hydrech/restaurante/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta restaurante / Caso 4:
+ - Arquivo de output gerado: Resultados/Hydrech/restaurante/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Nota para a pasta restaurante (máximo 3.34) - 40.00 de 40 - 100.00% de 3.34: 3.34.
+ -----
+
+#######################################
+RESULTADOS FINAIS
+#######################################
+
+----------------------------------------------------------------------------
+Aluno: Hydrech
+ - Arquivos Esperados Corretos: 5 de 5
+ - Pastas Compiladas Corretamente: 3 de 3 
+ - Pastas Linkadas Corretamente: 3 de 3
+ - Teste main
+ - Resultados corretos: 4 de 4
+ - Valgrinds corretos: 4 de 4
+ - Nota de Hydrech para o teste main: 3.33
+ - Teste alimento
+ - Resultados corretos: 4 de 4
+ - Valgrinds corretos: 4 de 4
+ - Nota de Hydrech para o teste alimento: 3.33
+ - Teste restaurante
+ - Resultados corretos: 4 de 4
+ - Valgrinds corretos: 4 de 4
+ - Nota de Hydrech para o teste restaurante: 3.34
+ - Nota de Hydrech: 0+(3.33)+(3.33)+(3.34)
+ - Nota de Hydrech: 10.00
+
+----------------------------------------------------------------------------
+
+Arquivo CSV Resultado.csv com os resultados finais foi gerado na pasta raíz!
+
+
+

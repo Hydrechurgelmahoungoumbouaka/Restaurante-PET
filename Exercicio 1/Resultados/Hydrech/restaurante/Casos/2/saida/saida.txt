@@ -1,0 +1,39 @@
+Nome: Sabor de Chão
+Alimentos:
+--------------------
+Nome: Feijao
+Quantidade: 9500.00
+Preco: R$ 20.00
+Quantidade consumida: 500.00
+Renda: R$ 10.00
+--------------------
+--------------------
+Nome: Batata Frita
+Quantidade: 2050.00
+Preco: R$ 24.00
+Quantidade consumida: 250.00
+Renda: R$ 6.00
+--------------------
+--------------------
+Nome: Vinagrete
+Quantidade: 1200.00
+Preco: R$ 8.00
+Quantidade consumida: 0.00
+Renda: R$ 0.00
+--------------------
+--------------------
+Nome: Bife Acebolado
+Quantidade: 5500.00
+Preco: R$ 32.00
+Quantidade consumida: 1200.00
+Renda: R$ 38.40
+--------------------
+--------------------
+Nome: Macarrao
+Quantidade: 0.00
+Preco: R$ 18.00
+Quantidade consumida: 1200.00
+Renda: R$ 21.60
+--------------------
+Quantidade total consumida: 3150.00
+Renda total: R$ 76.00

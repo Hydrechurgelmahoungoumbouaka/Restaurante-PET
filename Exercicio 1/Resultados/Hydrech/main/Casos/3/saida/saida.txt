@@ -1,0 +1,71 @@
+Nome: Restaurante Universitário
+Alimentos:
+--------------------
+Nome: Peixe
+Quantidade: 99000.00
+Preco: R$ 5.00
+Quantidade consumida: 1000.00
+Renda: R$ 5.00
+--------------------
+--------------------
+Nome: Couve
+Quantidade: 1000.00
+Preco: R$ 5.00
+Quantidade consumida: 0.00
+Renda: R$ 0.00
+--------------------
+--------------------
+Nome: Beterraba
+Quantidade: 1500.00
+Preco: R$ 5.00
+Quantidade consumida: 0.00
+Renda: R$ 0.00
+--------------------
+--------------------
+Nome: Polenta
+Quantidade: 8500.00
+Preco: R$ 5.00
+Quantidade consumida: 0.00
+Renda: R$ 0.00
+--------------------
+Quantidade total consumida: 1000.00
+Renda total: R$ 5.00
+Nome: Restaurante Universitário
+Alimentos:
+--------------------
+Nome: Peixe
+Quantidade: 99000.00
+Preco: R$ 5.00
+Quantidade consumida: 1000.00
+Renda: R$ 5.00
+--------------------
+--------------------
+Nome: Couve
+Quantidade: 1000.00
+Preco: R$ 5.00
+Quantidade consumida: 0.00
+Renda: R$ 0.00
+--------------------
+--------------------
+Nome: Beterraba
+Quantidade: 1500.00
+Preco: R$ 5.00
+Quantidade consumida: 0.00
+Renda: R$ 0.00
+--------------------
+--------------------
+Nome: Polenta
+Quantidade: 8500.00
+Preco: R$ 5.00
+Quantidade consumida: 0.00
+Renda: R$ 0.00
+--------------------
+--------------------
+Nome: Torta de soja
+Quantidade: 2000.00
+Preco: R$ 5.00
+Quantidade consumida: 1000.00
+Renda: R$ 5.00
+--------------------
+Quantidade total consumida: 2000.00
+Renda total: R$ 10.00

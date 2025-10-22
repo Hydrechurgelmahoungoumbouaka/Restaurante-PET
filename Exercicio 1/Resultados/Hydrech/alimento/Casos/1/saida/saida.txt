@@ -1,0 +1,25 @@
+Nome: Ronaldo Lanches
+Alimentos:
+--------------------
+Nome: Linguica de porco
+Quantidade: 2000.00
+Preco: R$ 26.00
+Quantidade consumida: 0.00
+Renda: R$ 0.00
+--------------------
+--------------------
+Nome: Arroz integral
+Quantidade: 9200.00
+Preco: R$ 12.00
+Quantidade consumida: 800.00
+Renda: R$ 9.60
+--------------------
+--------------------
+Nome: Suco de maracujá
+Quantidade: 1000.00
+Preco: R$ 16.00
+Quantidade consumida: 0.00
+Renda: R$ 0.00
+--------------------
+Quantidade total consumida: 800.00
+Renda total: R$ 9.60

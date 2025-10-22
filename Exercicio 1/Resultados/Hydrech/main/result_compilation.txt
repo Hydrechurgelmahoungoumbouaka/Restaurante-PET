@@ -1,0 +1,7 @@
+main.c: In function ‘main’:
+main.c:13:11: warning: unused variable ‘qtd’ [-Wunused-variable]
+   13 |     float qtd;
+      |           ^~~
+main.c:12:10: warning: unused variable ‘nome’ [-Wunused-variable]
+   12 |     char nome[32];
+      |          ^~~~

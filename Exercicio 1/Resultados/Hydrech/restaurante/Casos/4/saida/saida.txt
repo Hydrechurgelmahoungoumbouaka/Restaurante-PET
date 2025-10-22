@@ -1,0 +1,11 @@
+Nome: Cantina do CT
+Alimentos:
+--------------------
+Nome: Ronaldo
+Quantidade: 1234.00
+Preco: R$ 90.00
+Quantidade consumida: 0.00
+Renda: R$ 0.00
+--------------------
+Quantidade total consumida: 0.00
+Renda total: R$ 0.00

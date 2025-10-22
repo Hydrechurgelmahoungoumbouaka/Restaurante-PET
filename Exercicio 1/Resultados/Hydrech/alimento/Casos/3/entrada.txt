@@ -1,0 +1,30 @@
+Restaurante Universitário
+A
+Peixe
+5
+100000
+A
+Couve
+5
+1000
+A
+Beterraba
+5
+1500
+A
+Polenta
+5
+8500
+C
+Peixe
+1000
+I
+A
+Torta de soja
+5
+3000
+C
+Torta de soja
+1000
+I
+E

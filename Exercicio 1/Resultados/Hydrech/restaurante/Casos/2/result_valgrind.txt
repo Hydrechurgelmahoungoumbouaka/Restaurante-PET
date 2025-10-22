@@ -1,0 +1,15 @@
+==40607== Memcheck, a memory error detector
+==40607== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==40607== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==40607== Command: Resultados/Hydrech/restaurante/prog Resultados/Hydrech/restaurante/Casos/2
+==40607== Parent PID: 40606
+==40607== 
+==40607== 
+==40607== HEAP SUMMARY:
+==40607==     in use at exit: 0 bytes in 0 blocks
+==40607==   total heap usage: 2 allocs, 2 frees, 8,192 bytes allocated
+==40607== 
+==40607== All heap blocks were freed -- no leaks are possible
+==40607== 
+==40607== For lists of detected and suppressed errors, rerun with: -s
+==40607== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

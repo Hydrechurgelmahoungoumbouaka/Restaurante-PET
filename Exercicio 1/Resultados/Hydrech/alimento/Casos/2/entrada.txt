@@ -1,0 +1,35 @@
+Sabor de Chão
+A
+Feijao
+20
+10000
+A
+Batata Frita
+24
+2300
+A
+Vinagrete
+8
+1200
+A
+Bife Acebolado
+32
+6700
+C
+Bife Acebolado
+1200
+C
+Feijao
+500
+C
+Batata Frita
+250
+A
+Macarrao
+18
+1200
+C
+Macarrao
+1200
+I
+E

@@ -1,0 +1,17 @@
+Arquivos Esperados Corretos: 5 de 5
+Pastas Compiladas Corretamente: 3 de 3 
+Pastas Linkadas Corretamente: 3 de 3
+Teste main
+  - Resultados corretos: 4 de 4
+  - Valgrinds corretos: 4 de 4
+Nota de Hydrech para o teste main: 3.33
+Teste alimento
+  - Resultados corretos: 4 de 4
+  - Valgrinds corretos: 4 de 4
+Nota de Hydrech para o teste alimento: 3.33
+Teste restaurante
+  - Resultados corretos: 4 de 4
+  - Valgrinds corretos: 4 de 4
+Nota de Hydrech para o teste restaurante: 3.34
+Nota de Hydrech: 0+(3.33)+(3.33)+(3.34)
+Nota de Hydrech: 10.00
